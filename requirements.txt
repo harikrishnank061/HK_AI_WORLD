@@ -1,2 +1,6 @@
 streamlit
 cohere
+pandas
+matplotlib
+seaborn
+gtts
